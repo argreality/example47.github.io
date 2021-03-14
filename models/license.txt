@@ -1,0 +1,11 @@
+Model Information:
+* title:	DPC100
+* source:	https://sketchfab.com/3d-models/dpc100-031207daf75042b4b7693a440314ab0a
+* author:	Interiors3D (https://sketchfab.com/Interiors3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DPC100" (https://sketchfab.com/3d-models/dpc100-031207daf75042b4b7693a440314ab0a) by Interiors3D (https://sketchfab.com/Interiors3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
